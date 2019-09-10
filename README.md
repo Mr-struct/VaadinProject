@@ -1,1 +1,1 @@
-# VaadinProject
+# VaddinProject
